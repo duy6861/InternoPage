@@ -34,9 +34,9 @@ const swiper = new Swiper('.swiper', {
 const sr = ScrollReveal({
     origin: 'bottom',
     distance: '60px',
-    duration: 3000,
+    duration: 2000,
     delay: 300,
-    reset: true
+    // reset: true
 }
 );
 // hero
